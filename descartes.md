@@ -1,0 +1,1 @@
+## Descartes Documentation\n\nThis repository contains the Descartes framework implementation.\n\n### Key Components\n1. Core logic\n2. Utility functions\n3. Example use cases

@@ -1,0 +1,1 @@
+- [ ] Implement core features\n- [ ] Add unit tests\n- [ ] Refactor code structure
