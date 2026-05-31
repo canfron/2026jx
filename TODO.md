@@ -1,1 +1,6 @@
-- [ ] Implement core features\n- [ ] Add unit tests\n- [ ] Refactor code structure
+# TODO for 2026jx
+
+## Pending Tasks
+- [ ] Complete feature X
+- [ ] Implement unit tests
+- [ ] Add documentation for API endpoints
